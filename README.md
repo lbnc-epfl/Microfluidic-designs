@@ -1,1 +1,1 @@
-This folder contains all he microfluidic mask designs used at LBNC
+This folder contains all the microfluidic mask designs used at LBNC
